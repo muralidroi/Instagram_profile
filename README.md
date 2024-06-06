@@ -4,7 +4,7 @@
 
  This project is simple android project Implemented using Jetpack compose
  
- A few resources to get you started if this is your first Flutter project:
+ A few resources to get you started if this is your first android compose project:
  - [Documentation: Compose Documentation](https://developer.android.com/courses/jetpack-compose/course)
  - [Course: Android Basic Compose Course](https://developer.android.com/courses/android-basics-compose/course)
   
